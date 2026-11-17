@@ -45,7 +45,6 @@ This repository documents my Week 3 practical tasks on password security. I reco
 4. Started the cracking process
 5. Recovered the password and verified it by opening the PDF
 
-No installation was required for this module.
 
 ---
 
@@ -80,28 +79,13 @@ Both passwords were cracked almost instantly because they were simple, common wo
 
 ## 📁 Repository Structure
 
-```
-.
-├── README.md
-├── screenshots/     # Step-by-step lab screenshots
-└── demo/            # Link or file for the demonstration recording
-```
 
----
-
-## 🎥 Demonstration
-
-Link to the demo recording: _add link here_
-
----
 
 ## 👤 Author
 
 **Tapiwanashe Ripondo**
 Cybersecurity Intern, Networkwalks
 BSc Honours in Information Technology, Chinhoyi University of Technology
-
-🔗 LinkedIn: _add profile link here_
 
 ---
 
